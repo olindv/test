@@ -11,6 +11,7 @@ const combine = require('stream-combiner2').obj;
 const os = require('os');
 const fs = require('fs');
 console.log('hi')
+console.log('hi')
 
 
 /* Переменные окружения */
